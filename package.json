@@ -37,12 +37,12 @@
   },
   "homepage": "https://github.com/libp2p/js-peer-id",
   "devDependencies": {
-    "aegir": "^36.0.1",
+    "aegir": "^37.0.13",
     "util": "^0.12.3"
   },
   "dependencies": {
     "class-is": "^1.1.0",
-    "libp2p-crypto": "^0.21.0",
+    "libp2p-crypto": "^0.21.2",
     "multiformats": "^9.4.5",
     "protobufjs": "^6.10.2",
     "uint8arrays": "^3.0.0"
